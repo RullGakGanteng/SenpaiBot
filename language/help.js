@@ -24,7 +24,7 @@
 
   // Message When Not the Destined Link
   exports.notLink = () => {
-  return `⚠️ Itu Bukan Linknya Bambank
+  return `⚠️ Itu Bukan Linknya -_
   `
   }
 
@@ -72,7 +72,7 @@
 
   // Message No Spam
   exports.janSpam = () => {
-  return `Jan Spam Dong Kak 🐧
+  return `Jan Spam Dong Kak 
   `
   }
 
@@ -552,15 +552,9 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ ${prefix}katasenja
 
   *🙏 Thanks To*
-  ✎ Dika Ardnt
-  ✎ Fatih Arridho
-  ✎ Nurutomo
-  ✎ Mhankbarbar
-  ✎ Zeeone Ofc
-  ✎ Ryuka Team
-  ✎ Deff
-  ✎ Yoga
-  ✎ Riy
+  ✎ Allah Swt
+  ✎ Ortu
+  ✎ MySelf
   `
   }
 
@@ -623,11 +617,12 @@ zarrah, niscaya dia akan melihat
 📆 1 Minggu : Rp. 10.000,00
 📆 1 Bulan : Rp. 20.000,00
 📆 1 Tahun : Rp. 100.000,00
-📆 Permanen : Buat Bot Sendiri!!!
+📆 Permanen : Chat owner
 
 *🏦 PAYMENT :*
 - Gopay
 - Dana
+- Rank Game
   `
   }
 
@@ -638,6 +633,8 @@ zarrah, niscaya dia akan melihat
 📛 Nama : 
 🔞 Umur :
 🏙️ Askot :
+
+Catatan: Gak wajib✨
 
 Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada
   `
@@ -1214,15 +1211,9 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   // Thanks To
   exports.sthanksto= () => {
   return`  *🙏 Thanks To*
-  ✎ Dika Ardnt
-  ✎ Fatih Arridho
-  ✎ Nurutomo
-  ✎ Mhankbarbar
-  ✎ Zeeone Ofc
-  ✎ Ryuka Team
-  ✎ Deff
-  ✎ Yoga
-  ✎ Riy
+  ✎ Allah
+  ✎ Ortu
+  ✎ MySelf
   `
   }
   
