@@ -24,8 +24,8 @@
 
   // Other
   global.ownername = 'Rull' // Ganti Jadi Namamu
-  global.owner = ['6285859047172','6285859047172','6285859047172'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6285859047172' // Owner Utama Istilahnya
+  global.owner = ['6285746030186','6285746030186','6285746030186'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6285746030186' // Owner Utama Istilahnya
   global.botname = 'SenpaiBot' // Ganti Jadi Nama Botmu
   global.packname = 'SenpaiBot' // Sticker Weem
   global.author = 'Rull' // Sticker Weem
